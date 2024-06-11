@@ -5,14 +5,14 @@
 I am Victor Costa, a web developer dedicated to creating accessible interfaces and exceptional user experiences.
 My passion for technology and innovation drives me to continuously improve and learn new skills.
 
-<a href="https://gihub.com/victorhcosta/github-readme-stats">
+<a href="#">
     <img
         height="200"
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=victorhcosta&theme=dracula&show_icons=true"
     />
 </a>
-<a href="https://github.com/victorhcosta/convoychat">
+<a href="#">
     <img
         height="200"
         align="center"
